@@ -120,12 +120,13 @@ hr {
  
  
   .main-card {
-    width: 300px;
+    width: 290px;
+    height: 340px;
   }
 
   .background-top {
 
-    width: 300px;
+    width: 290px;
   }
 
   .profile-info {
@@ -134,6 +135,20 @@ hr {
 
     width: 30%;
   }
+}
+
+li {
+
+  font-size: 0.8em;
+  text-align: center;
+  padding: 5px;
+  left: -15px;
+}
+
+li > span {
+
+  font-size: 0.3em;
+  
 }
 }
 
